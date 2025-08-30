@@ -1,4 +1,4 @@
-# BlinkIT Sales Analysis
+# BlinkIT Analysis
 
 A complete analysis of BlinkIT sales using **SQL*** for data preparation & insights, and **Power BI** for interactive dashboard visualization.
 
